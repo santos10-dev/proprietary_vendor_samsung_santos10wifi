@@ -16,5 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/santos10wifi/proprietary/vendor/lib/hw/hwcomposer.clovertrail.so:system/vendor/lib/hw/hwcomposer.clovertrail.so \
+    vendor/samsung/santos10wifi/proprietary/vendor/lib/hw/camera.vendor.santos10.so:system/vendor/lib/hw/camera.vendor.santos10.so \
     vendor/samsung/santos10wifi/proprietary/vendor/bin/gpsd:system/vendor/bin/gpsd \
     vendor/samsung/santos10wifi/proprietary/vendor/lib/hw/gps.santos10.so:system/vendor/lib/hw/gps.santos10.so
